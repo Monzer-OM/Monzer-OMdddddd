@@ -1,6 +1,16 @@
 // Copyright 2014 The Flutter Authors. All rights reserved.
+<<<<<<< HEAD
 // Use of this source code is governed by a BSD-style license that can besssssss
 // found in the LICENSE file.
+=======
+// Use of this source code is governed by a BSD-style license that can be
+<<<<<<< HEAD
+// found in the LICENSE file....
+=======
+// found in the LICENSE file.
+>>>>>>> 3b91437bc8d988b24318df625852b7634303beb4
+
+>>>>>>> c511cbfbf841817429640b6e4e49852c0de99144
 if (!_flutter) {
   var _flutter = {};
 }
